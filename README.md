@@ -66,9 +66,8 @@ Abu shama" target="_blank">
 ## Android and IOS App Developer-
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
 <br/>
-
+<hr/>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abu9905&show_icons=true&locale=en&layout=compact" alt="abu9905" /></p>
