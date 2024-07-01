@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Abu shama</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+<img src="https://giphy.com/clips/t5hXhd8P8zTe6s0yhW" alt="coding" width="500" height="600">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu9905&label=Profile%20views&color=0e75b6&style=flat" alt="abu9905" /> </p>
 
 - 🌱 I’m currently learning **React js, Node js ,Full Stack Web Developer**
